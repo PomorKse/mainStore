@@ -6,7 +6,7 @@
             "id_product": 126,
             "product_name": "Sadi sofa",
             "price": 110000,
-            "quantity": 1,
+            "quantity": 1
         },
         {
             "id_product": 678,
@@ -30,22 +30,19 @@
             "quantity": 1,
             "id_product": 678,
             "product_name": "Nova pendant",
-            "price": 5000,
-            "image": "/img/product-5-sm.jpg"
+            "price": 5000
         },
         {
             "quantity": 1,
             "id_product": 127,
             "product_name": "G Nelson clock",
-            "price": 4000,
-            "image": "/img/product-4-sm.jpg"
+            "price": 4000
         },
         {
             "quantity": 1,
             "id_product": 678,
             "product_name": "Nova pendant",
-            "price": 5000,
-            "image": "/img/product-5-sm.jpg"
+            "price": 5000
         }
     ]
 }
